@@ -29,6 +29,7 @@ import com.example.sensorslogin.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
 
+
     private ActivityMainBinding binding;
     //task 1
     private int batteryPercentage = -1; // To hold the current battery percentage
